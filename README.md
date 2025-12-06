@@ -6,7 +6,7 @@
 <h3 align="left">Web Developer:</h3>
 
 
-- 📫 How to contact : **minhtrannguyen.js@gmail.com**
+- 📫 How to ssadwasas : **minhtrannguyen.js@gmail.com**
 
 - 📝 I regularly write articles on **NULL**
 
