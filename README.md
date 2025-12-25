@@ -6,9 +6,7 @@
 <h3 align="left">Web Developer:</h3>
 
 
-- 📫 How to ssadwasas : **minhtrannguyen.vie@gmail.com**
-
-- 📝 I regularly write articles on **NULL**
+- 📫 Contact : **minhtrannguyen.vie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
