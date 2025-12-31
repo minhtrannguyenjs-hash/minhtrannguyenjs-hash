@@ -14,7 +14,6 @@
 
 <h3 align="left">My Statistics</h3>
 
-![https://githubcard.com](https://githubcard.com/minhtrannguyen-vie.svg?d=h-1WrOQA)
 
 <h3 align="left">Connect with me:</h3>
 
